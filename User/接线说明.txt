@@ -1,0 +1,12 @@
+1、蓝牙：
+PA2 USART2_TX
+2、遥控电位器：
+PA1-X轴
+PA4-Y轴
+3、OLED：
+PB8-SCL
+PB9-SDA
+4、AD值读取
+PA4
+PA1
+5、开启：
